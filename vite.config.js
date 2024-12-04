@@ -8,11 +8,11 @@ export default defineConfig({
     }
   },
   plugins: [react()],
-  resolve: {
-    alias: {
-      "src": "/src",
-      "app": "/src/app",
-      "website": "/src/website",
-    },
-  },
+  //resolve: {
+  //  alias: {
+  //    "/src": "/src",
+  //    "app": "/src/app",
+  //    "website": "/src/website",
+  //  },
+  //},
 });

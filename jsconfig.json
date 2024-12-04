@@ -2,14 +2,14 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "src/*": [
-        "./src/*"
+      "/src/*": [
+        "/src/*"
       ],
-      "app/*": [
-        "./src/app/*"
+      "/src/app/*": [
+        "/src//src/app/*"
       ],
-      "website/*": [
-        "./src/website/*"
+      "/src/website/*": [
+        "/src/website/*"
       ]
     }
   }
